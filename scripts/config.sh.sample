@@ -3,7 +3,7 @@
 # For "local", the avatar images and document attachments will be saved on local disk.
 FILE_STORAGE=local
 # The url used to vist this web site.
-URL=http://0.0.0.0:8888
+URL=http://ec2-52-66-255-16.ap-south-1.compute.amazonaws.com:8888/
 # The default interface language. See translate.getoutline.com for a list of
 # available language codes and their rough percentage translated.
 DEFAULT_LANGUAGE=en_US
